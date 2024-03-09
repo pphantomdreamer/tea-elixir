@@ -1,6 +1,6 @@
 {
   "name": "tea-elixir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elixir package to trigger TEA API",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
   ],
   "dependencies": {
     "tea-demo-arsen": "1.0.1",
-    "tea-draught": "0.0.2"
+    "tea-draught": "0.0.2",
+    "i4-demo-tea": "1.0.0"
   },
   "author": "PPDramer",
   "license": "ISC",
